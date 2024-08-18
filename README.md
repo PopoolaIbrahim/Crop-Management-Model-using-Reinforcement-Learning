@@ -1,1 +1,1 @@
-# Crop-Management-Model-using-Reinforcement-Learning
+# Crop-Recommendation-Model-using-Reinforcement-Learning
